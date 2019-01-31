@@ -10,5 +10,5 @@ On the entire dataset, we use the image-level annotations provided by human secu
 * The images and the corresponding annotation results can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed
 *  Copyright © Pattern Recognition and Intelligent System Development Laboratory, University of Chinese Academy of Sciences (UCAS-PRISDL). All rights reserved.
 ## DOWNLOAD
-You can download all the dataset from [here](https://pan.baidu.com/s/1zSbpapRURc9Uzjl-1ZWI_w)
+You can download all the dataset from [here]
 
